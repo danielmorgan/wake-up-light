@@ -1,0 +1,2 @@
+BlinkStick==1.1.8
+pyusb==1.0.0b1
